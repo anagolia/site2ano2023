@@ -30,6 +30,8 @@
     background-image: linear-gradient(#4E5577,#25A1E7);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .escola-div-conteudo{
